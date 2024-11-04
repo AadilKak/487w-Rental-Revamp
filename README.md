@@ -2,7 +2,7 @@
 
 Welcome to the **Car Rental Management System**! This application allows both drivers and administrators to manage car rentals with ease. The system includes separate functionalities for drivers and admins, providing an efficient and streamlined process for making and managing reservations.
 ## **Live Demo**
-You can access the live application here: [ColorPi Live Demo](https://carrentalsystem.streamlit.app/)
+You can access the live application here: [Vehicle Rental System Live Demo](https://carrentalsystem.streamlit.app/)
 ## **Features**
 
 ---
